@@ -1,6 +1,6 @@
-# OPTIMIZATION_TimeScheduling
+# Optimization: Timetable Scheduling
 
-
+### Constraint programming
 ### !! For more information, please read the Optimization_Modelling pdf file !!
 
 
